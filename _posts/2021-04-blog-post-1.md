@@ -1,7 +1,7 @@
 ---
 title: 'Doctoral Scholarship'
 date: 2021-04
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2021/04/blog-post-1/
 tags:
   - cool posts
   - category1
