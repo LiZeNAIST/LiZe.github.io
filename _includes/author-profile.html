@@ -32,10 +32,6 @@
         <!-- 在下一行的 href 属性中修改为个人的链接 -->
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
-      {% if author.email %}
-        <!-- 在下一行的 href 属性中修改为个人的邮箱链接 -->
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-      {% endif %}
       {% if author.linkedin %}
         <!-- 在下一行的 href 属性中修改为个人的 LinkedIn 链接 -->
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
@@ -45,14 +41,8 @@
         <li><a href="https://github.com/LiZeNAIST"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}       
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-      {% endif %}
-      {% if author.bookwithme %}
-        <li><a href="{{ author.bookwithme }}"><i class="fab fa-fw fa-wpforms" aria-hidden="true"></i> Book with me</a></li>
-      {% endif %}
-      {% if author.bookwithme %}
-        <li><a href="{{ author.bookwithme }}"><i class="fab fa-fw fa-wpforms" aria-hidden="true"></i> Book with me</a></li>
-      {% endif %}           
+        <li><a href="mailto:{li2016ze@163.com}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      {% endif %}        
       {% if author.googlescholar %}
         <!-- 在下一行的 href 属性中修改为个人的 Google Scholar 链接 -->
         <li><a href="https://your-googlescholar-link.com"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
