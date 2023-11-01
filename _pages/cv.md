@@ -78,7 +78,8 @@ Patents
 
 Talks
 ======
-* 2023.10.11-10.14: [EMBO | EMBL Symposium | The non-coding genome](https://www.embl.org/about/info/course-and-conference-office/events/ees23-10/?utm_source=annualposter&utm_medium=poster&utm_id=EES23-10#vf-tabs__section-overview) ,  in Heidelberg, Germany
+* 2023.10.11-10.14: EMBO | EMBL Symposium | The non-coding genome, in Heidelberg, Germany
+ [EMBL](https://www.embl.org/about/info/course-and-conference-office/events/ees23-10/?utm_source=annualposter&utm_medium=poster&utm_id=EES23-10#vf-tabs__section-overview) 
   * Title: Transcriptome-wide identification of substrates of the Drosophila RNA export factor Exportin5
   
 Teaching
