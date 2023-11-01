@@ -45,6 +45,18 @@
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       <!-- 添加其他社交媒体链接的类似注释 -->
+      {% if author.email %}
+    <!-- 在下一行的 href 属性中修改为个人的邮箱链接 -->
+        <li><a href="mailto:your-email@example.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+      {% endif %}
+      {% if author.bookwithme %}
+    <!-- 在下一行的 href 属性中修改为个人的 Book with me 链接 -->
+        <li><a href="https://your-bookwithme-link.com"><i class="fab fa-fw fa-wpforms" aria-hidden="true"></i> Book with me</a></li>
+      {% endif %}            
+      {% if author.googlescholar %}
+    <!-- 在下一行的 href 属性中修改为个人的 Google Scholar 链接 -->
+        <li><a href="https://your-googlescholar-link.com"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
