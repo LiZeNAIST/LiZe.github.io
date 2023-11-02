@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in College of animal science and Technology, Hebei Normal University of Science&Technology，2013-2017
-* M.S. in College of animal science and Technology, Northwest A&F university, (Advisor: Dr. Wei Zehui), 2017-2020
+* M.S. in College of animal science and Technology, Northwest A&F university, (Advisor: Dr. Wei Zehui and Dr. Sun Xiuzhu), 2017-2020
 * Ph.D in Biological Science, NARA Institute of Science and Technology, (Advisor: Dr. Katsutomo Okamura) 2021-2024 (expected)
 
 Work experience
